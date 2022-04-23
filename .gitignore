@@ -1,3 +1,6 @@
 .idea
 temp.txt
 report.json
+*.log
+zlib-compress.mjs.txt
+zlib-decompress.mjs.txt
